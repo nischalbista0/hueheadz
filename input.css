@@ -71,8 +71,6 @@ body {
 
     .cloud {
         animation: move-left 40s linear infinite;
-        top: auto;
-        bottom: 50vh;
     }
 }
 
