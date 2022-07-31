@@ -70,7 +70,7 @@ body {
     }
 
     .cloud {
-        animation: move-left 40s linear infinite;
+        animation: move-left 120s linear infinite;
     }
 }
 
